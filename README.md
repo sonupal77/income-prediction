@@ -56,14 +56,9 @@ I have deployed the app on Heroku platform but I have prepared a deck to help us
 
 Python, Amazon EC2, Cassandra, Flask, Html, CSS, Docker, Vscode
 
-## Flask App
 
 
 
-
-### Screenshot
-
-![App Screenshot](https://drive.google.com/file/d/17dxleBtzla-S8fHCLGrsHYC0hGSrroKh/view?usp=sharing)
 
 
 ## Heroku
